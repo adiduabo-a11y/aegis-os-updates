@@ -1,6 +1,6 @@
 # AEGIS signed updates
 
-Public downloads for the AEGIS desktop and assistant. Bundles contain application source and assets. They contain no user data, models, private keys or credentials.
+Public downloads for the AEGIS desktop and assistant. Bundles contain application source, assets and allowlisted native user-space Wi-Fi and updater tools. They contain no user data, models, private keys or credentials.
 
 Use Aegis Updates in a provisioned image to check, verify, install and roll back releases. A persistent or installed system is required to keep an update after reboot. These bundles do not replace the Linux kernel, drivers or system packages.
 
